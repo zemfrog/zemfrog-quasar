@@ -27,13 +27,13 @@ ZEMFROG_THEMES = ["zemfrog_quasar"]
 
 In this theme, several jinja blocks are available, such as:
 
-`meta` - List of meta tags to include
-`links` - This is to be included in the head tag as (`link`, `title`, etc)
-`content` - This is to be included in the main tag (`div#q-app`)
-`js` - The js script that will be included, after vue, vuex, vue-router & quasar
-`vuex` - Configuration passed to vuex
-`vue_router` - Configuration passed to vue-router
-`vue` - Configuration passed to vue
+* `meta` - List of meta tags to include
+* `links` - This is to be included in the head tag as (`link`, `title`, etc)
+* `content` - This is to be included in the main tag (`div#q-app`)
+* `js` - The js script that will be included, after vue, vuex, vue-router & quasar
+* `vuex` - Configuration passed to vuex
+* `vue_router` - Configuration passed to vue-router
+* `vue` - Configuration passed to vue
 
 
 ## Layouts
@@ -101,4 +101,3 @@ In the example above, there are several explanations. See below:
 # Quasar
 
 If you use this, you can't use the self-closing tag. See here https://quasar.dev/start/umd#usage
-
