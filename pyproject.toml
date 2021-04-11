@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "zemfrog-quasar"
-version = "1.0.1"
+version = "1.0.2"
 description = "Quasar Framework Integration"
 authors = ["Aprila Hijriyan <hijriyan23@gmail.com>"]
 license = "MIT"
